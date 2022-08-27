@@ -1,5 +1,3 @@
-# Syllabus-DSA-Tracker
-
 # Complete Syllabus-DSA-Tracker
 
 - Introduction to Programming
