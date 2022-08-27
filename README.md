@@ -1,0 +1,262 @@
+# Syllabus-DSA-Tracker
+
+# Complete Syllabus-DSA-Tracker
+
+- Introduction to Programming
+    - Types of languages
+    - Memory management
+- Flow of the program
+    - Flowcharts
+    - Pseudocode
+- Introduction to Java/C++/C#
+    - Introduction
+    - How it works 
+    - Setup Installation
+    - Input and Output in Java/C++/C#
+    - Conditionals & Loops in Java/C++/C#
+        - if-else
+        - loops
+        - Switch statements
+    - Data-types
+    - Coding best practices
+- Functions
+    - Introduction
+    - Scoping in Java/C++/C#
+    - Shadowing
+    - Variable Length Arguments
+    - Overloading
+- Arrays
+    - Introduction
+    - Memory management
+    - Input and Output
+    - ArrayList Introduction
+    - Searching
+        - Linear Search 
+        - Binary Search
+        - Modified Binary Search
+        - Binary Search on 2D Arrays
+    - Sorting
+        - Insertion Sort
+        - Selection Sort
+        - Bubble Sort
+        - Count Sort
+        - Radix Sort
+        - Cyclic Sort
+    - Sliding window
+    - Two Pointer
+    - Subarray Questions
+- Pattern questions
+- Strings
+    - Introduction
+    - How Strings work
+    - Comparison of methods
+    - Operations in Strings
+    - StringBuilder in java
+- Maths for DSA
+    - Introduction
+    - Complete Bitwise Operators
+    - Prime numbers
+    - HCF / LCM
+    - Sieve of Eratosthenes
+    - Newton's Square Root Method
+    - Number Theory
+    - Euclidean algorithm
+    - Advanced Concepts for CP (later in the course)
+        - Bitwise + DP
+        - Extended Euclidean algorithm
+        - Modulo Properties
+        - Modulo Multiplicative Inverse
+        - Linear Diophantine Equations
+        - Fermat’s Theorem
+        - Wilson's Theorem
+        - Lucas Theorem
+        - Chinese Remainder Theorem
+- Recursion
+    - Introduction
+    - Why recursion?
+    - Flow of recursive programs - stacks
+    - Convert recursion to iteration
+    - Tree building of function calls
+    - Tail recursion
+    - Sorting:
+        - Merge Sort
+        - Quick Sort
+    - Backtracking
+        - Sudoku Solver
+        - N-Queens
+        - N-Knights
+        - Maze problems
+    - Recursion String Problems
+    - Recursion Array Problems
+    - Recursion Pattern Problems
+    - Subset Questions
+- Space and Time Complexity Analysis
+    - Introduction
+    - Comparisons of various cases
+    - Solving Linear Recurrence Relations
+    - Solving Divide and Conquer Recurrence Relations
+    - Big-O, Big-Omega, Big-Theta Notations
+    - Get equation of any relation easily - best and easiest approach
+    - Complexity discussion of all the problems we do
+    - Space Complexity 
+    - Memory Allocation of various languages
+    - NP-Completeness and Hardness
+- Object Oriented Programming
+    - Introduction
+    - Classes & its instances
+    - this keyword in Java/C++/C#
+    - Properties
+        - Inheritance
+        - Abstraction
+        - Polymorphism
+        - Encapsulation
+    - Overloading & Overriding
+    - Static & Non-Static
+    - Access Control
+    - Interfaces
+    - Abstract Classes
+    - Singleton Class
+    - final, finalize, finally
+    - Object Class
+    - Generics
+    - Exception Handling
+    - Collections Framework
+    - Lambda Expression
+    - Enums
+    - Fast IO
+- Greedy Algorithms
+- Stacks & Queues
+    - Introduction
+    - Interview problems
+    - Push efficient
+    - Pop efficient
+    - Queue using Stack and Vice versa
+    - Circular Queue
+- Linked List
+    - Introduction
+    - Fast and slow pointer
+    - Cycle Detection
+    - Single and Doubly LinkedList
+    - Reversal of LinkedList
+- Dynamic Programming
+    - Introduction
+    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - Complexity Analysis
+    - 0/1 Knapsack
+    - Subset Questions
+    - Unbounded Knapsack
+    - Subsequence questions
+    - String DP
+- Trees
+    - Introduction
+    - Binary Trees
+    - Binary Search Trees
+    - DFS
+    - BFS
+    - AVL Trees
+    - Segment Tree
+    - Fenwick Tree / Binary Indexed Tree
+- Square Root Decomposition
+- Heaps
+    - Introduction
+    - Theory
+    - Priority Queue
+    - Heapsort
+    - Two Heaps Method
+    - k-way merge
+    - Top k elements
+    - Interval problems
+- HashMap
+    - Introduction
+    - Theory - how it works
+    - Comparisons of various forms
+    - Limitations and how to solve
+    - Map using LinkedList
+    - Map using Hash
+    - Chaining
+    - Probing
+    - Huffman-Encoder
+- Tries
+- Graphs
+    - Introduction
+    - BFS
+    - DFS
+    - Working with graph components
+    - Minimum Spanning Trees
+    - Kruskal Algorithm
+    - Prims Algorithm
+    - Dijkstra’s shortest path algorithm
+    - Topological Sort
+    - Bellman ford
+    - A* pathfinding Algorithm
+    
+    
+    
+## Problems & Tips
+- [CSES](https://cses.fi/problemset/)
+- [CP-Algorithms](https://cp-algorithms.com)
+- [DP Questions](https://atcoder.jp/contests/dp/tasks)
+- [Google Interview Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
+- [LeetCode Solutions](https://twchen.gitbook.io/leetcode/)
+- [HackerEarth](https://www.hackerearth.com/practice/)
+- [DP Roadmap](https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3)
+- [Math for CP](https://www.quora.com/How-do-I-get-good-at-math-for-competitive-programming/answer/Sameer-Gulati-3)
+- [Graph Theory](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Sameer-Gulati-3)
+- [DS for CP](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3?c)
+- [String DP](https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed)
+- [Blogs on CP](https://technicalbattle.blogspot.com/2020/05/best-blogs-on-codeforces-links-for-best.html)
+- [Blogs on CP](https://petr-mitrichev.blogspot.com)
+- [Improve DSA Skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/)
+- [Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Interview Questions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+
+
+## Platforms to Practice: 
+- [Codeforces](http://codeforces.com/contests)
+- [Codechef](https://www.codechef.com)
+- [Leetcode](https://leetcode.com)
+- [AtCoder](https://atcoder.jp/contests/)
+- [TopCoder](https://www.topcoder.com)
+- [SPOJ](https://www.spoj.com/users/lebron/)
+- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [ProjectEuler](https://projecteuler.net/archives)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+- [DailyCodingProblem](https://www.dailycodingproblem.com)
+- [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
+- [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
+- [Binarysearch](https://binarysearch.com/)
+
+## Problem Solving Books: 
+- A Path to Combinatorics for Undergraduates
+- Competitive Programmers Handbook - Antti Laaksonen - July 2018
+- Competitive Programming 3 - The New Lower Bound of Programming Contests
+- Cracking the Coding Interview 189 Programming Questions and Solutions
+- Elements of Programming Interviews - The Insider's Guide - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+- Fifty Challenging Problems in Probability. - Fredrick Mosteller
+- Guide to Competitive Programming - Learning and Improving Algorithms ThroughContests
+- How to Solve It - A New Aspect of Mathematical Method
+- Problem Books in Mathematics -  by K. Bencsath P.R. Halmos
+- The Art and Craft of Problem Solving, 3rd Edition
+- Cracking the Coding Interview: 150 Programming Questions and Solutions
+
+## Interview Prep
+- [Pramp](https://www.pramp.com/#/)
+- [interviewing.io](https://interviewing.io)
+- [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
+
+## Online Coding Hackathons and Competitions
+- [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+> Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).
+
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+> Google’s longest running global coding competition, Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. Contestants advance through four online-hosted rounds to compete at the annual Code Jam World Finals that is held at a different international Google office each year. Each round brings new challenges, and in the end 25 contestants will have the ultimate chance to put their skills to the test, vying for cash prizes and the coveted championship title at the World Finals.
+
+- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
+> Google’s team-based programming competition, Hash Code, allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge! In small teams of two to four, coders all over the world will tackle the first problem through an Online Qualification Round. Though this round is hosted online, teams can come together to compete side-by-side in locally coordinated Hash Code hubs. The top teams from this round are invited to join us at an international Google office for our annual Hash Code Final Round.
+
+- [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
+> Hacker Cup is Facebook's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.
+
+- [ICPC](https://icpc.global/)
+> The ICPC formerly known as ACM-ICPC (Association for Computing Machinery - International Collegiate Programming Contest) is considered as the "Olympics of Programming Competitions". It is quite simply, the oldest, largest, and most prestigious programming contest in the world. This contest is for students only. Students from same college may form team of 3(reqiured) along with 1 reserve(optional) and with a coach from the faculty member. Contestants advance through two online-hosted rounds to compete at the annual ICPC Finals that is held at a different international sites each year. Further details are [here](https://icpc.global/regionals/rules/).
